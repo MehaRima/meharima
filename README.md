@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋, My name is Saheli 
 #### Web developer and designer,Instructor and Data Science enthusiast
-![Web developer and designer,Instructor and Data Science enthusiast](https://github.com/MehaRima/sb/blob/main/imgs/Avatar.png)
-
+![Web developer and designer,Instructor and Data Science enthusiast](https://github.com/MehaRima/meharima/blob/main/Welcome.png)
 I am currently working on creating interactive learning experience with guided projects in Coursera 
 
 Skills: PHP/MYSQL / JS / HTML / CSS and more
