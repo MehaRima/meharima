@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, My name is Saheli 
-#### Web developer and designer,Instructor and Data Science enthusiast
+#### Developer | Designer | Instructor.
 ![Web developer and designer,Instructor and Data Science enthusiast](https://github.com/MehaRima/meharima/blob/main/Hello.png)
 
 ### I am currently working on creating interactive learning experience with guided projects in Coursera 
 
-Skills: PHP /MYSQL / JS / HTML / CSS and more
+<a href='https://www.linkedin.com/in/saheli-basu/'>Skills</a>
 
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I love to learn and share what I learn! 
