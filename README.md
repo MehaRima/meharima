@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, My name is Saheli 
 #### Learning • Assessment • Quality Systems • Decision Support
 
-![Web developer and designer,Instructor and Data Science enthusiast](https://github.com/MehaRima/meharima/blob/main/Hello.png)
+<!-- ![Web developer and designer,Instructor and Data Science enthusiast](https://github.com/MehaRima/meharima/blob/main/Hello.png) -->
 
 <a href='https://www.linkedin.com/in/saheli-basu/'>Skills</a>
 
