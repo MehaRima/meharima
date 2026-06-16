@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 <!-- ![Web developer and designer,Instructor and Data Science enthusiast](https://github.com/MehaRima/meharima/blob/main/Hello.png) -->
 
-<a href='https://www.linkedin.com/in/saheli-basu/'>Skills</a>
-
-- 😄 Pronouns: She/Her 
+- 😄 Pronouns: She/Her
+- <a href='https://www.linkedin.com/in/saheli-basu/'>Skills</a>
 - ⚡ Fun fact: I love to learn and share what I learn! 
 
 
