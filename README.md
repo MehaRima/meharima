@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <!-- ![Web developer and designer,Instructor and Data Science enthusiast](https://github.com/MehaRima/meharima/blob/main/Hello.png) -->
 
-- <a href='https://www.linkedin.com/in/saheli-basu/'>Skills</a>
 - I love to learn and share what I learn! 
+- Check out my list of <a href='https://www.linkedin.com/in/saheli-basu/'>Skills</a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MehaRima)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saheli-basu/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/sahelibasu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://sahelibasu23.github.io)  
