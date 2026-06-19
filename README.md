@@ -3,7 +3,7 @@
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on the GitHub profile.
 -->
 ### Hi there 👋, My name is Saheli 
-#### Learning • Assessment • Quality Systems • Decision Support
+#### Assessment • Analytics • Quality Systems • AI-Augmented Workflows • Decision Support
 
 *I love to learn and share what I learn!*
 
