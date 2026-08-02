@@ -3,7 +3,8 @@
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on the GitHub profile.
 -->
 ### Hi there 👋, My name is Saheli 
-#### Assessment • Analytics • Quality Systems • AI-Augmented Workflows • Decision Support
+#### Systems Thinking | Operational Excellence | Quality Governance | Decision Intelligence | Applied AI Evaluation | Assessment, Learning & Capability Development | Building @SysteMetic
+
 
 *I love to learn and share what I learn!*
 
