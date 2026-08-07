@@ -14,10 +14,10 @@ Learning & Assessment Development Professional | Quality Governance | Operationa
 [![Streamlit](https://img.shields.io/badge/Streamlit-Profile-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/meharima)
 
 
+<!--  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehaRima)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehaRima&show_icons=true)  
+-->
 
 ![GitHub metrics](https://metrics.lecoq.io/MehaRima)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MehaRima)  
