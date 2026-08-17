@@ -17,12 +17,10 @@ Designing and improving systems that connect people, processes, and technology |
 <!--  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehaRima)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehaRima&show_icons=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehaRima&show_icons=true&theme=github_dark)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MehaRima)
-![GitHub streak](./profile/streak.svg)
 ![GitHub metrics](https://metrics.lecoq.io/MehaRima)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MehaRima)
-<img src="https://github-readme-stats.vercel.app/api?username=MehaRima&show_icons=true" width="400">
-<img src="https://streak-stats.demolab.com?user=MehaRima" width="400">
 ![Profile views](https://komarev.com/ghpvc/?username=MehaRima)
 -->
 
@@ -31,6 +29,5 @@ Designing and improving systems that connect people, processes, and technology |
 ![GitHub followers](https://img.shields.io/github/followers/MehaRima)
 ![GitHub stars](https://img.shields.io/github/stars/MehaRima)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehaRima&show_icons=true&theme=github_dark)
 
 
