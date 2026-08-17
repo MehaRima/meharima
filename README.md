@@ -17,7 +17,11 @@ Designing and improving systems that connect people, processes, and technology |
 <!--  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehaRima)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehaRima&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MehaRima)
 -->
 
 ![GitHub metrics](https://metrics.lecoq.io/MehaRima)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MehaRima)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=MehaRima)
+![GitHub streak](./profile/streak.svg)
+
+
