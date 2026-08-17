@@ -27,6 +27,7 @@ Designing and improving systems that connect people, processes, and technology |
 -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MehaRima&theme=github-dark)
+
 ![GitHub followers](https://img.shields.io/github/followers/MehaRima)
 ![GitHub stars](https://img.shields.io/github/stars/MehaRima)
 
