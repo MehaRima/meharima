@@ -20,5 +20,4 @@ Designing and improving systems that connect people, processes, and technology |
 -->
 
 ![GitHub metrics](https://metrics.lecoq.io/MehaRima)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MehaRima)  
