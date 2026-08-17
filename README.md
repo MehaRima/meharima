@@ -21,11 +21,15 @@ Designing and improving systems that connect people, processes, and technology |
 ![GitHub streak](./profile/streak.svg)
 ![GitHub metrics](https://metrics.lecoq.io/MehaRima)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MehaRima)
+<img src="https://github-readme-stats.vercel.app/api?username=MehaRima&show_icons=true" width="400">
+<img src="https://streak-stats.demolab.com?user=MehaRima" width="400">
+![Profile views](https://komarev.com/ghpvc/?username=MehaRima)
 -->
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MehaRima&theme=github-dark)
+![GitHub followers](https://img.shields.io/github/followers/MehaRima)
+![GitHub stars](https://img.shields.io/github/stars/MehaRima)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehaRima&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehaRima&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MehaRima&theme=github-dark)
 
