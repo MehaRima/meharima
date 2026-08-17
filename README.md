@@ -36,6 +36,8 @@ Building [@SysteMetic](https://github.com/SysteMetic-by-Saheli-Basu) 🚀
 
 → [Explore SysteMetic on GitHub](https://github.com/SysteMetic-by-Saheli-Basu)
 
+→ [Explore the vision](https://sahelibasu23.github.io/index.html#publishing)
+
 ---
 
 ### 📊 GitHub
