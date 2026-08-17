@@ -23,6 +23,9 @@ Designing and improving systems that connect people, processes, and technology |
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MehaRima)
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=MehaRima&show_icons=true">
-<img src="https://streak-stats.demolab.com/?user=MehaRima">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehaRima&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehaRima&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MehaRima&theme=github-dark)
 
